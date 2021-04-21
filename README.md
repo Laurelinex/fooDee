@@ -1,7 +1,7 @@
 # fooDee
 
 <p align="center">
-<img width="400" src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/fooDeeLogoTransparent.png.png">
+<img width="400" src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/fooDeeLogoTransparent.png">
 </p>
 
 
