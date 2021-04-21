@@ -42,6 +42,7 @@ Java, JavaScript, HTML, CSS, React, Hibernate, Spring
 
 <h3>User Journey</h3>
 
+<p align="center">
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_1.png">
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_2.png">
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_3.png">
@@ -49,3 +50,4 @@ Java, JavaScript, HTML, CSS, React, Hibernate, Spring
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_5.png">
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_6.png">
 <img src="https://github.com/Laurelinex/fooDee/blob/main/client/src/media/readme/journey_7.png">
+</p>
